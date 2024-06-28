@@ -63,7 +63,7 @@ Here you describe how to run your project locally
 How to clone your project
 
 ```bash
-git clone https://github.com/mesbol6647/MERN-01-StokApp-.git)
+git clone https://github.com/mesbol6647/MERN-01-StokApp-.git
 ```
 
 <h3>Starting</h3>
